@@ -1,0 +1,51 @@
+{
+    "employment": [
+        {
+            "time": "2021-2022",
+            "jobTitle": "StoreSupport",
+            "location": "Stockholm",
+            "text": "StoreSupport är ett bemanningsföretag där man åker runt till olika butiker i hela Sverige och jobbar. Exempel på butiker kan vara Coop, Ica, Willys etc. "
+        },
+        {
+            "time": "2020-2021",
+            "jobTitle": "Kista Grossen",
+            "location": "Stockholm, kista",
+            "text": "Kista Grossen är en matbutik där fokuset ligger på kundbemötande och varuplock samt kassaarbete.  "
+        },
+        {
+            "time": "2021",
+            "jobTitle": "Idrottsledare Kista SC",
+            "location": "Stockholm, kista",
+            "text": "Kista SC jobbar med barn mellan 7-12 år och lär ut ungdomar att vara idrottsledare genom att genomföra en ledarskapskurs"
+        },
+        {
+            "time": "2019-2020",
+            "jobTitle": "Cinnabon AB",
+            "location": "Stockholm",
+            "text": "Cinnabon är en cafeteria där jag fick jobba mycket med servis av dryck som kaffe, smoothies etc samt servering av hembakade cinnabon bullar. "
+        }
+    ],
+    "education": [
+        {
+            "time":"2022-pågående",
+            "edTitle": "Chas Academy",
+            "program": "UX/UI designer med frontendkompetens",
+            "location":"Stockholm"
+            
+        },
+        {
+            "time":"2021-2022",
+            "edTitle": "Jensen Komvux",
+            "program": "Programmering 1 Java",
+            "location":"Stockholm"
+             
+        },
+        {
+            "time":"2018-2021",
+            "edTitle": "Norra Jensen Gymnasium",
+            "program": "Ekonomi Juridik",
+            "location":"Stockholm"
+            
+        }
+    ]
+}
